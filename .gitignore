@@ -1,0 +1,64 @@
+﻿# OS & editor artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# Editor directories
+.vscode/
+.idea/
+*.code-workspace
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.whl
+.venv/
+venv/
+env/
+ENV/
+*.env.local
+
+# Node / JS artifacts
+node_modules/
+.npm
+.yarn/
+*.log
+.pnp.*
+
+# Build output
+.next/
+out/
+coverage/
+
+# Secrets & credentials - never commit these
+.env
+.env.*
+!.env.example
+secrets.json
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+*.cer
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+.cache/
