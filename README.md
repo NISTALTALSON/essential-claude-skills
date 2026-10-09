@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-# AI Engineering Skills
+# Essential Claude Skills
 
 **A curated collection of battle-tested skills for AI-powered coding, agent engineering, cybersecurity, and modern software development.**
 
@@ -293,8 +293,8 @@ Open any `SKILL.md` and paste its contents into a conversation with your AI assi
 ### Option A — Full Clone
 
 ```bash
-git clone https://github.com/NISTALTALSON/AI-Engineering-Skills.git
-cd AI-Engineering-Skills
+git clone https://github.com/NISTALTALSON/essential-claude-skills.git
+cd essential-claude-skills
 ```
 
 ### Option B — Selective Skill Copy
@@ -308,7 +308,7 @@ cp -r skills/software-engineering/tdd-workflow ~/.agents/skills/
 ### Option C — Symlink for Claude Code (macOS/Linux)
 
 ```bash
-ln -s /path/to/AI-Engineering-Skills/skills ~/.agents/skills
+ln -s /path/to/essential-claude-skills/skills ~/.agents/skills
 ```
 
 No package installation is required. Skills are plain Markdown files.
@@ -373,3 +373,4 @@ If a skill here saves you time or teaches you something useful, consider contrib
 [Browse Skills](./skills) · [Skill Catalog](./docs/SKILL-CATALOG.md) · [Sources](./docs/SOURCES.md) · [Contribute](./CONTRIBUTING.md)
 
 </div>
+

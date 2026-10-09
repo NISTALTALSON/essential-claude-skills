@@ -317,3 +317,4 @@ A searchable index of all 127 curated skills in this collection.
 ---
 
 *Last updated: October 2026. Total: 127 skills across 8 categories.*
+

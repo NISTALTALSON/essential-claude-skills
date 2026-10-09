@@ -1,4 +1,4 @@
-﻿# Contributing to AI Engineering Skills
+﻿# Contributing to Essential Claude Skills
 
 Thank you for your interest in improving this collection. The goal is a curated, high-quality set of skills that genuinely help developers ship better software and AI systems.
 
@@ -73,3 +73,4 @@ Never include in a skill:
 ## Code of Conduct
 
 This project follows the Contributor Covenant v2.1. Be respectful, constructive, and inclusive.
+

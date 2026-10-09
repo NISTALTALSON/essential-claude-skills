@@ -75,3 +75,4 @@ Some skills depend on external services or tools:
 | Other (verified open source) | Various | ~7 |
 
 When in doubt about a specific skill, check the `SKILL.md` frontmatter and any `LICENSE.txt` in the skill directory.
+
