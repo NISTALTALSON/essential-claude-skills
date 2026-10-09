@@ -1,51 +1,105 @@
-﻿<div align="center">
+<div align="center">
 
-# Essential Claude Skills
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Essential%20Claude%20Skills&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=127%20battle-tested%20skills%20for%20AI-powered%20developers&descAlignY=58&descSize=18" width="100%" />
 
-**A curated collection of battle-tested skills for AI-powered coding, agent engineering, cybersecurity, and modern software development.**
+<a href="./skills">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Coding+%E2%80%A2+Agents+%E2%80%A2+Security+%E2%80%A2+AI+Engineering;Built+for+developers+who+ship+with+AI;Reusable+skills+for+every+modern+stack" alt="Typing SVG" />
+</a>
 
-[![Skills](https://img.shields.io/badge/skills-127-4f46e5?style=flat-square)](./skills)
-[![License](https://img.shields.io/badge/license-MIT-22c55e?style=flat-square)](./LICENSE)
-[![Categories](https://img.shields.io/badge/categories-8-0ea5e9?style=flat-square)](#-skill-categories)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-f59e0b?style=flat-square)](./CONTRIBUTING.md)
+<br/>
 
-*Built for developers who use AI agents as daily coding companions.*
+<img src="https://img.shields.io/badge/skills-127-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/categories-8-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/license-MIT-10B981?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+<img src="https://img.shields.io/badge/PRs-welcome-F59E0B?style=for-the-badge&logo=git&logoColor=white" />
+
+<br/><br/>
+
+**A curated collection of battle-tested skills for AI-powered coding,<br/>agent engineering, cybersecurity, and modern software development.**
+
+<sub><i>Built for developers who use AI agents as daily coding companions.</i></sub>
+
+<br/>
+
+<a href="#-skill-categories"><kbd>📚 Browse Skills</kbd></a>
+&nbsp;
+<a href="#-installation-and-setup"><kbd>⚡ Quick Start</kbd></a>
+&nbsp;
+<a href="./CONTRIBUTING.md"><kbd>🤝 Contribute</kbd></a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px"/>
 
 </div>
 
----
+<br/>
 
-## Why This Exists
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28" /> &nbsp;Why This Exists
 
-AI coding agents are only as good as the instructions you give them. Skills are reusable, structured instructions that tell an agent *exactly* how to approach a task — whether that is designing a PostgreSQL schema, auditing an LLM application for security issues, or building a multi-agent orchestration pipeline.
+> **AI coding agents are only as good as the instructions you give them.**
 
-This repository collects the most practical skills across the full stack of modern development: vibe coding, software engineering, AI/ML engineering, agentic systems, cybersecurity, and developer productivity. Every skill here was reviewed, selected, and organized by hand. Nothing was included just to inflate the count.
+Skills are **reusable, structured instructions** that tell an agent *exactly* how to approach a task — whether that's designing a PostgreSQL schema, auditing an LLM application for security issues, or building a multi-agent orchestration pipeline.
 
-**Compatible with:** Claude Code · Antigravity IDE · Cursor · Windsurf · any agent that loads skill files from a `.agents/skills/` directory.
+This repository collects the most practical skills across the full stack of modern development: **vibe coding, software engineering, AI/ML engineering, agentic systems, cybersecurity, and developer productivity.** Every skill was reviewed, selected, and organized by hand — nothing was included just to inflate the count.
 
----
+<br/>
 
-## Table of Contents
+<div align="center">
 
-- [Skill Categories](#-skill-categories)
-- [Highlighted Skills](#-highlighted-skills)
-- [Using Skills with AI Agents](#-using-skills-with-ai-agents)
-- [Installation and Setup](#-installation-and-setup)
-- [Adding New Skills](#-adding-new-skills)
-- [Security and Attribution](#-security-and-attribution)
-- [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
+### 🧠 &nbsp;Compatible With
 
----
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity_IDE-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Windsurf-09B6A2?style=for-the-badge&logo=codeium&logoColor=white" />
+<img src="https://img.shields.io/badge/Any_Agent-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
 
-## Skill Categories
+</div>
 
-### Vibe Coding `skills/vibe-coding/` — 16 skills
+<br/>
 
-Frontend development, UI/UX, design systems, and modern web interfaces.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px"/>
+
+<br/>
+
+## 🗂️ &nbsp;Table of Contents
+
+<div align="center">
+
+| | | |
+|:-:|:-:|:-:|
+| [**🎨 Skill Categories**](#-skill-categories) | [**⭐ Highlighted Skills**](#-highlighted-skills) | [**🤖 Using Skills**](#-using-skills-with-ai-agents) |
+| [**⚡ Installation**](#-installation-and-setup) | [**➕ Adding Skills**](#-adding-new-skills) | [**🔐 Security**](#-security-and-attribution) |
+| [**🗺️ Roadmap**](#-roadmap) | [**🤝 Contributing**](#-contributing) | [**📖 Catalog**](./docs/SKILL-CATALOG.md) |
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px"/>
+
+<br/>
+
+<div align="center">
+
+## 🎨 &nbsp;Skill Categories
+
+<sub>Eight hand-curated domains · 127 skills · zero filler</sub>
+
+</div>
+
+<br/>
+
+<details open>
+<summary><h3>&nbsp;&nbsp;🎨 &nbsp;Vibe Coding &nbsp;·&nbsp; <code>skills/vibe-coding/</code> &nbsp;·&nbsp; <b>16 skills</b></h3></summary>
+
+<br/>
+
+> Frontend development, UI/UX, design systems, and modern web interfaces.
 
 | Skill | Description |
-|-------|-------------|
+|:------|:------------|
 | `react-patterns` | React component architecture, hooks, performance, and testing patterns |
 | `nextjs-turbopack` | Next.js App Router, server components, Turbopack, and deployment |
 | `vite-patterns` | Vite build tool configuration, plugins, HMR, and optimization |
@@ -63,14 +117,19 @@ Frontend development, UI/UX, design systems, and modern web interfaces.
 | `react-performance` | Profiling, memoization, and rendering optimization |
 | `react-native-patterns` | Expo Router, NativeWind, TanStack Query, and native APIs |
 
----
+</details>
 
-### Software Engineering `skills/software-engineering/` — 33 skills
+<br/>
 
-Backends, databases, testing, DevOps, Git, and production-readiness patterns.
+<details>
+<summary><h3>&nbsp;&nbsp;⚙️ &nbsp;Software Engineering &nbsp;·&nbsp; <code>skills/software-engineering/</code> &nbsp;·&nbsp; <b>33 skills</b></h3></summary>
+
+<br/>
+
+> Backends, databases, testing, DevOps, Git, and production-readiness patterns.
 
 | Skill | Description |
-|-------|-------------|
+|:------|:------------|
 | `python-patterns` | Idiomatic Python patterns, typing, async, and project structure |
 | `python-testing` | pytest, fixtures, mocking, and coverage strategies |
 | `rust-patterns` | Ownership, error handling, traits, and concurrency in Rust |
@@ -105,14 +164,19 @@ Backends, databases, testing, DevOps, Git, and production-readiness patterns.
 | `web-artifacts-builder` | Build complete web artifacts from scratch |
 | `webapp-testing` | Full-stack web application testing strategies |
 
----
+</details>
 
-### AI Engineering `skills/ai-engineering/` — 20 skills
+<br/>
 
-LLM integration, ML pipelines, evaluation, RAG, and production AI architecture.
+<details>
+<summary><h3>&nbsp;&nbsp;🧠 &nbsp;AI Engineering &nbsp;·&nbsp; <code>skills/ai-engineering/</code> &nbsp;·&nbsp; <b>20 skills</b></h3></summary>
+
+<br/>
+
+> LLM integration, ML pipelines, evaluation, RAG, and production AI architecture.
 
 | Skill | Description |
-|-------|-------------|
+|:------|:------------|
 | `ai-first-engineering` | Engineering principles for AI-native applications |
 | `prompt-optimizer` | Analyze and rewrite prompts for accuracy and token efficiency |
 | `context-budget` | Audit context window consumption and recover headroom |
@@ -134,14 +198,19 @@ LLM integration, ML pipelines, evaluation, RAG, and production AI architecture.
 | `gateguard` | Gate-based approval workflows for sensitive agent actions |
 | `unified-memory` | Cross-session memory architectures for persistent agent contexts |
 
----
+</details>
 
-### AI Agents `skills/ai-agents/` — 17 skills
+<br/>
 
-Agentic workflows, orchestration, multi-agent systems, and autonomous loops.
+<details>
+<summary><h3>&nbsp;&nbsp;🤖 &nbsp;AI Agents &nbsp;·&nbsp; <code>skills/ai-agents/</code> &nbsp;·&nbsp; <b>17 skills</b></h3></summary>
+
+<br/>
+
+> Agentic workflows, orchestration, multi-agent systems, and autonomous loops.
 
 | Skill | Description |
-|-------|-------------|
+|:------|:------------|
 | `agentic-engineering` | Core patterns for building production-grade agentic systems |
 | `agentic-os` | Build persistent multi-agent OS on Claude Code with memory and scheduling |
 | `continuous-agent-loop` | Patterns for autonomous, long-running agent pipelines |
@@ -160,25 +229,36 @@ Agentic workflows, orchestration, multi-agent systems, and autonomous loops.
 | `write-a-skill` | Create new agent skills with correct structure and documentation |
 | `skill-creator` | Iteratively build, test, and optimize skills with eval support |
 
----
+</details>
 
-### MCP `skills/mcp/` — 2 skills
+<br/>
 
-Model Context Protocol server development and integration patterns.
+<details>
+<summary><h3>&nbsp;&nbsp;🔌 &nbsp;MCP &nbsp;·&nbsp; <code>skills/mcp/</code> &nbsp;·&nbsp; <b>2 skills</b></h3></summary>
+
+<br/>
+
+> Model Context Protocol server development and integration patterns.
 
 | Skill | Description |
-|-------|-------------|
+|:------|:------------|
 | `mcp-builder` | Build MCP servers in Python (FastMCP) or TypeScript (MCP SDK) |
 | `mcp-server-patterns` | MCP tools, resources, prompts, Zod validation, and transport selection |
 
----
+</details>
 
-### Cybersecurity `skills/cybersecurity/` — 10 skills
+<br/>
 
-Security review, vulnerability assessment, compliance, and application hardening. All skills are scoped to authorized testing, education, and defense.
+<details>
+<summary><h3>&nbsp;&nbsp;🛡️ &nbsp;Cybersecurity &nbsp;·&nbsp; <code>skills/cybersecurity/</code> &nbsp;·&nbsp; <b>10 skills</b></h3></summary>
+
+<br/>
+
+> Security review, vulnerability assessment, compliance, and application hardening.<br/>
+> <sub>⚠️ All skills are scoped to <b>authorized testing, education, and defense</b>.</sub>
 
 | Skill | Description |
-|-------|-------------|
+|:------|:------------|
 | `security-review` | Security checklist for auth, input handling, secrets, APIs, and payments |
 | `security-scan` | Scan Claude Code configuration for misconfigurations and injection risks |
 | `security-bounty-hunter` | Hunt for remotely reachable vulnerabilities suitable for responsible disclosure |
@@ -190,14 +270,19 @@ Security review, vulnerability assessment, compliance, and application hardening
 | `llm-trading-agent-security` | Security for autonomous agents with wallet and transaction authority |
 | `gateguard` | Approval gates and policy enforcement for sensitive agent actions |
 
----
+</details>
 
-### Research and Automation `skills/research-and-automation/` — 8 skills
+<br/>
 
-Web research, scraping, data collection, and automated discovery workflows.
+<details>
+<summary><h3>&nbsp;&nbsp;🔍 &nbsp;Research & Automation &nbsp;·&nbsp; <code>skills/research-and-automation/</code> &nbsp;·&nbsp; <b>8 skills</b></h3></summary>
+
+<br/>
+
+> Web research, scraping, data collection, and automated discovery workflows.
 
 | Skill | Description |
-|-------|-------------|
+|:------|:------------|
 | `deep-research` | Multi-source research with structured evidence synthesis |
 | `research-ops` | Evidence-first research workflow combining Exa and local context |
 | `exa-search` | Neural web and code search via Exa MCP |
@@ -207,14 +292,19 @@ Web research, scraping, data collection, and automated discovery workflows.
 | `data-scraper-agent` | Agent-driven data scraping and extraction workflows |
 | `iterative-retrieval` | Multi-hop retrieval for complex information needs |
 
----
+</details>
 
-### Productivity `skills/productivity/` — 21 skills
+<br/>
 
-Developer tooling, documentation, planning, and content creation.
+<details>
+<summary><h3>&nbsp;&nbsp;⚡ &nbsp;Productivity &nbsp;·&nbsp; <code>skills/productivity/</code> &nbsp;·&nbsp; <b>21 skills</b></h3></summary>
+
+<br/>
+
+> Developer tooling, documentation, planning, and content creation.
 
 | Skill | Description |
-|-------|-------------|
+|:------|:------------|
 | `write-a-skill` | Create new skills with correct structure and progressive disclosure |
 | `skill-creator` | Build, test, and iteratively optimize skills with eval benchmarks |
 | `context-budget` | Audit and recover context window headroom |
@@ -237,32 +327,54 @@ Developer tooling, documentation, planning, and content creation.
 | `article-writing` | Structured technical article and blog post creation |
 | `seo` | SEO analysis, optimization, and content recommendations |
 
----
+</details>
 
-## Highlighted Skills
+<br/>
 
-These are the strongest entries in the collection — the ones worth loading first.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px"/>
+
+<br/>
+
+<div align="center">
+
+## ⭐ &nbsp;Highlighted Skills
+
+<sub>The strongest entries in the collection — the ones worth loading first.</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
 
 | Skill | Why It Stands Out |
-|-------|-------------------|
-| `agentic-engineering` | Comprehensive, production-tested patterns for building AI agent systems |
-| `agent-architecture-audit` | Uniquely valuable — diagnoses the full 12-layer agent stack systematically |
-| `mcp-builder` | Clear, opinionated guide for building real MCP servers quickly |
-| `tdd-workflow` | One of the most thorough TDD skill implementations available |
-| `security-bounty-hunter` | Practical vulnerability discovery focused on real exploitability |
-| `postgres-patterns` | Supabase-informed, production-grade PostgreSQL best practices |
-| `blueprint` | Turns vague goals into concrete, multi-session engineering plans |
-| `context-budget` | Solves a real pain point — context bloat in large agent setups |
-| `parallel-execution-optimizer` | Non-obvious but high-leverage: run independent tasks concurrently |
-| `deep-research` | Systematic research with evidence synthesis, not just search |
-| `council-multi-model` | Cross-model adversarial review — genuinely useful for critical decisions |
-| `e2e-testing` | Best-practice Playwright patterns that work in CI from day one |
+|:------|:------------------|
+| 🏆 `agentic-engineering` | Comprehensive, production-tested patterns for building AI agent systems |
+| 🔬 `agent-architecture-audit` | Uniquely valuable — diagnoses the full 12-layer agent stack systematically |
+| 🔌 `mcp-builder` | Clear, opinionated guide for building real MCP servers quickly |
+| 🧪 `tdd-workflow` | One of the most thorough TDD skill implementations available |
+| 🐛 `security-bounty-hunter` | Practical vulnerability discovery focused on real exploitability |
+| 🐘 `postgres-patterns` | Supabase-informed, production-grade PostgreSQL best practices |
+| 📐 `blueprint` | Turns vague goals into concrete, multi-session engineering plans |
+| 💰 `context-budget` | Solves a real pain point — context bloat in large agent setups |
+| ⚡ `parallel-execution-optimizer` | Non-obvious but high-leverage: run independent tasks concurrently |
+| 🔍 `deep-research` | Systematic research with evidence synthesis, not just search |
+| 🏛️ `council-multi-model` | Cross-model adversarial review — genuinely useful for critical decisions |
+| 🎭 `e2e-testing` | Best-practice Playwright patterns that work in CI from day one |
 
----
+</div>
 
-## Using Skills with AI Agents
+<br/>
 
-### Claude Code
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px"/>
+
+<br/>
+
+## 🤖 &nbsp;Using Skills with AI Agents
+
+<br/>
+
+### <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 
 Place skills in your repository under `.agents/skills/` or reference them from your global skills directory. Claude Code picks them up automatically.
 
@@ -272,105 +384,3 @@ Place skills in your repository under `.agents/skills/` or reference them from y
 
 # Or via slash command
 /skill security-review
-```
-
-### Antigravity IDE
-
-Copy or symlink skills into `~/.gemini/config/skills/`. The IDE discovers them at startup.
-
-### Cursor / Windsurf / Other Agents
-
-Copy the `SKILL.md` contents into your system prompt, rules file, or `.cursorrules` as needed. The structured format works well as a system-prompt block.
-
-### Manual Use
-
-Open any `SKILL.md` and paste its contents into a conversation with your AI assistant of choice.
-
----
-
-## Installation and Setup
-
-### Option A — Full Clone
-
-```bash
-git clone https://github.com/NISTALTALSON/essential-claude-skills.git
-cd essential-claude-skills
-```
-
-### Option B — Selective Skill Copy
-
-```bash
-# Copy only the skills you want
-cp -r skills/ai-agents/agentic-engineering ~/.agents/skills/
-cp -r skills/software-engineering/tdd-workflow ~/.agents/skills/
-```
-
-### Option C — Symlink for Claude Code (macOS/Linux)
-
-```bash
-ln -s /path/to/essential-claude-skills/skills ~/.agents/skills
-```
-
-No package installation is required. Skills are plain Markdown files.
-
----
-
-## Adding New Skills
-
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for the full guide. The short version:
-
-1. Create `skills/<category>/<skill-name>/SKILL.md`
-2. Add YAML frontmatter with `name`, `description`, and `metadata.origin`
-3. Update `docs/SKILL-CATALOG.md`
-4. Open a pull request
-
----
-
-## Security and Attribution
-
-**No secrets.** This repository was scanned before publishing. No API keys, tokens, passwords, or personal configuration files are included. If you discover an accidental exposure, please open a private security report rather than a public issue.
-
-**Attribution.** Many skills originate from or are derived from the Empowered Coding Collective (ECC) open-source project and community contributors. Individual skill directories carry their own license notices where present. See [docs/SOURCES.md](./docs/SOURCES.md) for per-skill attribution.
-
-**Cybersecurity scope.** Security skills in this collection are scoped to authorized penetration testing, security education, defensive development, and responsible disclosure. They are not tools for unauthorized access or harm.
-
----
-
-## Roadmap
-
-**Near term**
-- [ ] Add Langchain / LangGraph integration skill
-- [ ] Add OpenAI Agents SDK patterns
-- [ ] Add OWASP Top 10 comprehensive skill
-- [ ] Add Burp Suite workflow skill for web app pen testing
-- [ ] Add CTF toolkit skill for learning environments
-
-**Medium term**
-- [ ] Add skills index search (fuzzy search over skill names and descriptions)
-- [ ] Structured YAML skill registry for programmatic discovery
-- [ ] Skill versioning and changelog tracking
-- [ ] CI workflow to validate SKILL.md frontmatter format
-
-**Stretch goals**
-- [ ] Automated compatibility checks against multiple agent runtimes
-- [ ] Community voting on skill quality
-- [ ] Integration with Model Context Protocol skill server
-
----
-
-## Contributing
-
-Contributions are welcome. Please read [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a pull request. The bar is quality, not quantity.
-
----
-
-<div align="center">
-
-**Built by developers, for developers.**
-
-If a skill here saves you time or teaches you something useful, consider contributing one back.
-
-[Browse Skills](./skills) · [Skill Catalog](./docs/SKILL-CATALOG.md) · [Sources](./docs/SOURCES.md) · [Contribute](./CONTRIBUTING.md)
-
-</div>
-
